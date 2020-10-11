@@ -1,4 +1,5 @@
 {
+	"parent": "data:gui/remove_held_visual",
 	"textures": {
 		"blank": "data:gui/blank_slots/single"
 	},
