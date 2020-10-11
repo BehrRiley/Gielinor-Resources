@@ -1,27 +1,6 @@
 {
+	"parent": "gielinor:gui/overlays/equipment/slot",
 	"textures": {
 		"img": "gielinor:gui/overlays/equipment/boots"
-	},
-	"elements": [ 	 
-		{
-			"from": [ 0, 8, 0 ],
-			"to": [ 16, 9, 16 ],
-			"faces": {
-				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#img" }
-			}
-		}
-	],
-	"display": {
-    "firstperson_lefthand": {
-        "scale": [ 0, 0, 0 ]
-    },
-    "firstperson_righthand": {
-        "scale": [ 0, 0, 0 ]
-    },
-		"gui": {
-			"rotation":  [ 75, 0, 0 ],
-			"translation":  [ 0, -0.5, 10 ],
-			"scale":  [ 1, 0, 1 ]
-		}
 	}
 }

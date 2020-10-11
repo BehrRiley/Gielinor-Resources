@@ -1,9 +1,5 @@
 {
-	"parent": "data:gui/remove_held_visual",
-	"textures": {
-		"img": "gielinor:gui/overlays/buttons/settings"
-	},
-	"elements": [ 	 
+  "elements": [ 	 
 		{
 			"from": [ 0, 8, 0 ],
 			"to": [ 16, 9, 16 ],
@@ -13,9 +9,15 @@
 		}
 	],
 	"display": {
+    "firstperson_lefthand": {
+        "scale": [ 0, 0, 0 ]
+    },
+    "firstperson_righthand": {
+        "scale": [ 0, 0, 0 ]
+    },
 		"gui": {
 			"rotation":  [ 75, 0, 0 ],
-			"translation":  [ 1, -0.5, 10 ],
+			"translation":  [ 0, -0.5, 10 ],
 			"scale":  [ 1, 0, 1 ]
 		}
 	}

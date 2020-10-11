@@ -1,4 +1,5 @@
 {
+	"parent": "data:gui/remove_held_visual",
 	"textures": {
 		"img": "gielinor:gui/overlays/buttons/stats"
 	},
@@ -12,12 +13,6 @@
 		}
 	],
 	"display": {
-    "firstperson_lefthand": {
-        "scale": [ 0, 0, 0 ]
-    },
-    "firstperson_righthand": {
-        "scale": [ 0, 0, 0 ]
-    },
 		"gui": {
 			"rotation":  [ 75, 0, 0 ],
 			"translation":  [ 0, -0.5, 10 ],
