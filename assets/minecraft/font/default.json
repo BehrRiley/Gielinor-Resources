@@ -1,0 +1,318 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "data:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/banner0.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\u1001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/banner1.png",
+            "ascent": 0,
+            "height": 16,
+            "chars": [
+                "\u1002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/banner2.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\u1003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/banner3.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": [
+                "\u1004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/attack_bonuses.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\u1005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/defence_bonuses.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\u1006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/other_bonuses.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\u1007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/stab.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [
+                "\u1008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/slash.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [
+                "\u1009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/smashing.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [
+                "\u1010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/magic.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\u1011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/ranged.png",
+            "ascent": 7,
+            "height": 9,
+            "chars": [
+                "\u1012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/strength.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [
+                "\u1013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/ranged_strength.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u1014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/magic_strength.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\u1015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/prayer.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\u1016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/container/equipment.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\u6001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/container/equipment_minecraft.png",
+            "ascent": -3,
+            "height": 109,
+            "chars": [
+                "\u6002"
+            ]
+        },
+        {
+            "comment": "skills row 1 previously height 18",
+            "type": "bitmap",
+            "file": "gielinor:gui/container/skill_row.png",
+            "ascent": -4,
+            "height": 12,
+            "chars": [
+                "\u6003"
+            ]
+        },
+        {
+            "comment": "skills row 2",
+            "type": "bitmap",
+            "file": "gielinor:gui/container/skill_row.png",
+            "ascent": -15,
+            "height": 12,
+            "chars": [
+                "\u6004"
+            ]
+        },
+        {
+            "comment": "skills row 3",
+            "type": "bitmap",
+            "file": "gielinor:gui/container/skill_row.png",
+            "ascent": -26,
+            "height": 12,
+            "chars": [
+                "\u6005"
+            ]
+        },
+        {
+            "comment": "skills row 4",
+            "type": "bitmap",
+            "file": "gielinor:gui/container/skill_row.png",
+            "ascent": -37,
+            "height": 12,
+            "chars": [
+                "\u6006"
+            ]
+        },
+        {
+            "comment": "skills row 5",
+            "type": "bitmap",
+            "file": "gielinor:gui/container/skill_row.png",
+            "ascent": -48,
+            "height": 12,
+            "chars": [
+                "\u6007"
+            ]
+        },
+        {
+            "comment": "skills row 5",
+            "type": "bitmap",
+            "file": "gielinor:gui/container/skill_row.png",
+            "ascent": -59,
+            "height": 12,
+            "chars": [
+                "\u6008"
+            ]
+        },
+        {
+            "comment": "skills row 5",
+            "type": "bitmap",
+            "file": "gielinor:gui/container/skill_row.png",
+            "ascent": -70,
+            "height": 12,
+            "chars": [
+                "\u6009"
+            ]
+        },
+        {
+            "comment": "skills row 5",
+            "type": "bitmap",
+            "file": "gielinor:gui/container/skill_row.png",
+            "ascent": -81,
+            "height": 12,
+            "chars": [
+                "\u6010"
+            ]
+        },
+        {
+            "comment": "skills row 5",
+            "type": "bitmap",
+            "file": "gielinor:gui/container/skill_row.png",
+            "ascent": -92,
+            "height": 12,
+            "chars": [
+                "\u6011"
+            ]
+        },
+        {
+            "comment": "skills row 5",
+            "type": "bitmap",
+            "file": "gielinor:gui/container/test.png",
+            "ascent": 20,
+            "height": 12,
+            "chars": [
+                "\u6012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/container/button.png",
+            "ascent": 20,
+            "height": 12,
+            "chars": [
+                "\u6013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/container/button_enabled.png",
+            "ascent": 20,
+            "height": 12,
+            "chars": [
+                "\u6014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/overlays/buttons/minigames.png",
+            "ascent": 10,
+            "height": 15,
+            "chars": [
+                "\u6015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:item/rings/emerald_ring.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\u6016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/minigames/castle_wars.png",
+            "ascent": 8,
+            "height": 40,
+            "chars": [
+                "\u6017"
+            ]
+        }
+    ]
+}
