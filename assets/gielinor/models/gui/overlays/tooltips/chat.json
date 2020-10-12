@@ -1,6 +1,6 @@
 {
 	"parent": "gielinor:gui/overlays/buttons/button",
 	"textures": {
-		"img": "gielinor:gui/overlays/buttons/armor"
+		"img": "gielinor:gui/overlays/tooltips/chat"
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"parent": "gielinor:gui/overlays/skills/skill",
 	"textures": {
-		"img": "gielinor:gui/overlays/skills/hunting"
+		"img": "gielinor:gui/overlays/skills/hd/hitpoints"
   }
 }
