@@ -12,3 +12,9 @@ scripts
 
 # ██ [ Asset Directories          ] ██
 assets/hold
+
+# ██ [ Language Content           ] ██
+assets/*/lang
+
+# ██ [ Minigame Content           ] ██
+assets/gielinor/textures/gui/minigames/hold
