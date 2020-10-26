@@ -115,7 +115,6 @@ Explain the problem and include additional details to help reproduce the problem
   - If the problem wasn't triggered by a specific action, describe what you were doing before the problem happened and share more information using the guidelines below.
 
 Provide more context by answering these questions:
-  - Can you reproduce the problem in safe mode?
   - Did the problem start happening recently or was this always a problem?
   - If the problem hasn't just started happening recently, when did you first notice or hear of this happening? Please provide details about how often the problem happens and under which conditions it normally happens.
   - If the problem is related to working with files (e.g. opening and editing files), does the problem happen for all files and projects or only some? Does the problem happen only when working with local or remote files (e.g. on network drives), with files of a specific type (e.g. only Denizen Scripts or a specific extension of files), with large files or files with very long lines, or with files in a specific encoding? Is there anything else special about the files you are using?
