@@ -1,11 +1,14 @@
 # ██ [ File-types                 ] ██
-*.old
 *.archive
+*.old
+*.lnk
+
+*.psd
 *.xcf
+
 *.bbmodel
 *.cubik
 *.schematic
-*.lnk
 
 # ██ [ Root Directories           ] ██
 build
